@@ -1,7 +1,7 @@
 # OreoNotificationSample
 A sample show new features about notification on Oreo.Writen by kotlin and need api level 26 or higher.
 
-![pic1](https://github.com/andrsay/OreoNotificationSample/blob/master/screenshots/Screenshot_20180108-222616.png | width=100)
+![pic1](https://github.com/andrsay/OreoNotificationSample/blob/master/screenshots/Screenshot_20180108-222616.png){:height="50%" width="50%"}
 
 ![pic2](https://github.com/andrsay/OreoNotificationSample/blob/master/screenshots/Screenshot_20180108-222639.png)
 
