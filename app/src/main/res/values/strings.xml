@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">OreoNotificationSample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_channel">通知渠道</string>
+    <string name="simple_notification">简单通知</string>
+    <string name="please_input_channel_name">请输入渠道名称</string>
+    <string name="save">保存</string>
+    <string name="add">添加</string>
+    <string name="channel_id_with_colon_exp">渠道ID：%1$s</string>
+    <string name="channel_name_with_colon_exp">渠道名称：%1$s</string>
+    <string name="importance_with_colon_exp">优先级：%1$s</string>
+    <string name="group_with_colon_exp">组名：%1$s</string>
+    <string name="cancel">取消</string>
+    <string name="channel_group_name_cant_be_empty">渠道组名不能为空</string>
+    <string name="add_channel">添加渠道</string>
+    <string name="please_input_channel_group_name">请输入渠道组名称</string>
+    <string name="delete_channel">删除渠道</string>
+    <string name="please_add_channel">请点击右上角添加一个渠道</string>
+    <string name="importance_with_colon">重要程度：</string>
+    <string name="channel_name_with_colon">渠道组名：</string>
+    <string name="please_input_notification_title">请输入通知标题</string>
+    <string name="please_input_notification_text">请输入通知文本</string>
+    <string name="channel_with_colon">通知渠道：</string>
+    <string name="please_choose_notification_channel">请选择通知渠道</string>
+    <string name="submit">提交</string>
+    <string name="invalid_notification_channel">无效的通知渠道</string>
+    <string name="channel_prop_exp">渠道名称：%1$s&#8195;重要程度：%2$s&#8195;%3$s&#8195;%4$s</string>
+    <string name="please_input_channel_description">请输入渠道描述</string>
+    <string name="choose_color">选择颜色</string>
+    <string name="light_with_colon">提示灯：</string>
+    <string name="vibration_with_colon">震动：</string>
+    <string name="has_light">有闪光</string>
+    <string name="no_light">无闪光</string>
+    <string name="has_vibration">有震动</string>
+    <string name="no_vibration">无震动</string>
+    <string name="notification_background_with_colon">通知背景色：</string>
+    <string name="reply">回复</string>
+    <string name="test_notification_title">聊天</string>
+    <string name="test_notification_text">您收到了2条联系人发来的消息</string>
+    <string name="ok">确定</string>
+    <string name="confirm_to_delete_notification">确定要删除这条通知吗？</string>
+    <string name="test_display_name">王尼玛</string>
+    <string name="test_conversation_title">与王尼玛的对话</string>
+    <string name="test_message_chat1">晚上404酒店，不见不散</string>
+    <string name="test_message_chat2">不好意思，发错了</string>
+    <string name="test_sender">王尼玛</string>
+    <string name="show_message_style">显示MessageStyle</string>
+    <string name="nlservice_name">OreoNotificationSample_NLService</string>
+    <string name="tip_open_notification_access">只有打开通知使用权才能监听通知改变(NotificationListenerService)</string>
+    <string name="go_settings">去设置</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu_add_notification_channel" type="id"/>
+    <item name="menu_save_notification_channel" type="id"/>
+    <item name="menu_submit_notification" type="id"/>
+</resources>
