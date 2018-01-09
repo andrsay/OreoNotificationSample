@@ -9,6 +9,7 @@ import android.util.Log
 /**
  * Print logs while notification changed.
  * Created by zhanglei on 2018/1/9.
+ *
  */
 class NLService : NotificationListenerService(){
 
